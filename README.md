@@ -1,7 +1,6 @@
 # Local-E-commerce-marketplace-web-scraping-project
 
-**Introduction:
-**
+Introduction:
 
 As one of the fastest growing industry in the world, Ecommerce sales has increased 170% over the past 5 years (2015 - 2020). Global e-commerce jumps to $26.7 trillion, fuelled by COVID-19. More and more merchants are moving their physical store to online store. Internet makes selling online easier than a decade ago, it lowers the barrier of becoming a seller.
 
@@ -9,8 +8,8 @@ However, it's extremely difficiult to stand out from thousand of sellers. The ob
 
 
 
-**Technologies Used:
-**
+Technologies Used:
+
 Python 3.8.5
 Selenium 4.0
 Pandas 1.1.3
