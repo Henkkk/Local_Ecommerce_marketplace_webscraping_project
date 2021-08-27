@@ -10,7 +10,8 @@ However, it's extremely difficiult to stand out from thousand of sellers. The ob
 
 
 **Technologies Used:
-**Python 3.8.5
+**
+Python 3.8.5
 Selenium 4.0
 Pandas 1.1.3
 Beautiful Soup 4.9.3
