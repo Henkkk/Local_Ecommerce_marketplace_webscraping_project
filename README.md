@@ -18,4 +18,3 @@ Beautiful Soup 4.9.3
 Requests 2.24.0
 Matplotlib 3.3.2
 Seaborn 0.11.0
-
