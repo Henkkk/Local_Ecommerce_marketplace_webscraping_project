@@ -18,3 +18,6 @@ Beautiful Soup 4.9.3,
 Requests 2.24.0,
 Matplotlib 3.3.2,
 Seaborn 0.11.0
+
+![Screenshot 2021-08-28 at 12 55 34 PM](https://user-images.githubusercontent.com/88356994/131206660-17694844-31cc-4744-800a-e3fc2074a98d.png)
+
