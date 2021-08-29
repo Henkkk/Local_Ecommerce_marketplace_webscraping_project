@@ -17,7 +17,7 @@ However, it's extremely difficult to stand out from thousands of sellers. The ob
 * [Challenges](#challenges)
 * [Next Steps](#next-steps)
 
-# :point_right:Technologies Used:
+# Technologies Used:
 
 Python 3.8.5. 
 
