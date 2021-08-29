@@ -8,14 +8,14 @@ However, it's extremely difficult to stand out from thousands of sellers. The ob
 
 # :point_right:Table of content
 
-* [Introduction](#Introduction:)
-* [Technologies Used](#Technologies Used:)
+* [Introduction](#point_rightintroduction)
+* [Technologies Used](#point_righttechnologies-used)
 * [Data Collection](#data-collection)
-* [Data Preprocessing](#Data Preprocessing:)
-* [Analysis](#Analysis:)
-* [Conclusion](#Conclusion:)
-* [Challenges](#Challenges:)
-* [Next Steps](#Next Steps:)
+* [Data Preprocessing](#data-preprocessing)
+* [Analysis](#analysis)
+* [Conclusion](#conclusion)
+* [Challenges](#challenges)
+* [Next Steps](#next-steps)
 
 # :point_right:Technologies Used:
 
