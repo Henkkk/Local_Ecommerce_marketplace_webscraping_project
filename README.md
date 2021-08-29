@@ -8,14 +8,14 @@ However, it's extremely difficult to stand out from thousands of sellers. The ob
 
 # :point_right:Table of content
 
-* [Introduction](#introduction)
-* [Technologies Used])(#technologiesused)
-* [Data Collection](#datacollection)
-* [Data Preprocessing]
-* [Analysis]
-* [Conclusion]
-* [Challenges]
-* [Next Steps]
+* [Introduction](#Introduction)
+* [Technologies Used](#Technologies Used)
+* [Data Collection](#Data Collection)
+* [Data Preprocessing](#Data Preprocessing)
+* [Analysis](#Analysis)
+* [Conclusion](#Conclusion)
+* [Challenges](#Challenges)
+* [Next Steps](#Next Steps)
 
 # :point_right:Technologies Used:
 
@@ -34,5 +34,5 @@ Matplotlib 3.3.2.
 Seaborn 0.11.0. 
 
 
-# datacollection
+# Data Collection
 
