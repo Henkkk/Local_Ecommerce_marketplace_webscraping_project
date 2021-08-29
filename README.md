@@ -35,4 +35,19 @@ Seaborn 0.11.0.
 
 
 # Data Collection
+Data collection part
 
+#Data Preprocessing
+Data Preprocessing part
+
+#Analysis
+Analysis part
+
+#Challenges
+challenges part
+
+#Conclusion
+Conclusion part
+
+#Next Steps
+last part
