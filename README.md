@@ -10,7 +10,7 @@ However, it's extremely difficult to stand out from thousands of sellers. The ob
 
 * [Introduction](#Introduction:)
 * [Technologies Used](#Technologies Used:)
-* [Data Collection](#data-collection:)
+* [Data Collection](#data-collection)
 * [Data Preprocessing](#Data Preprocessing:)
 * [Analysis](#Analysis:)
 * [Conclusion](#Conclusion:)
