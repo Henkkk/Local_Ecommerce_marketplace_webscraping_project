@@ -6,17 +6,6 @@ As one of the fastest-growing industries in the world, E-commerce sales have inc
 
 However, it's extremely difficult to stand out from thousands of sellers. The object of this project is trying to give online sellers in Hong Kong, especially those who sell on HKTV mall, a brief insight into how the E-commerce market looks like, and a few product recommendations.
 
-# Table of content
-
-* [Introduction](#introduction)
-* [Technologies Used](#technologies-used)
-* [Data Collection](#data-collection)
-* [Data Preprocessing](#data-preprocessing)
-* [Analysis](#analysis)
-* [Conclusion](#conclusion)
-* [Challenges](#challenges)
-* [Next Steps](#next-steps)
-
 # Technologies Used:
 
 Python 3.8.5. 
@@ -32,23 +21,3 @@ Requests 2.24.0.
 Matplotlib 3.3.2. 
 
 Seaborn 0.11.0. 
-
-
-# Data Collection:
-Data collection part
-
-
-# Data Preprocessing:
-Data Preprocessing part
-
-# Analysis:
-Analysis part
-
-# Challenges:
-challenges part
-
-# Conclusion:
-Conclusion part
-
-# Next Steps:
-last part
